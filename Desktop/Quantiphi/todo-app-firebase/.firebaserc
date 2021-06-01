@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "todo-with-firebase-1336a": {
+      "hosting": {
+        "todo-app-firebase": [
+          "todo-with-firebase-1336a"
+        ]
+      }
+    }
+  }
+}
